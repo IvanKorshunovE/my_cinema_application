@@ -10,10 +10,10 @@ API service for cinema management
 - `source venv/bin/activate`
 - `pip install -r requirements.txt`
 - `set POSTGRES_HOST=<your db hostname>`
-- `export POSTGRES_DB=<your db name>`
-- `export POSTGRES_USER=<your db user>`
-- `export POSTGRES_PASSWORD=<your db password>`
-- `export SECRET_KEY=<your secret key>`
+- `set POSTGRES_DB=<your db name>`
+- `set POSTGRES_USER=<your db user>`
+- `set POSTGRES_PASSWORD=<your db password>`
+- `set SECRET_KEY=<your secret key>`
 
 
 After you have done everything before:
